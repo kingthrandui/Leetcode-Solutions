@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0198-house-robber](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
