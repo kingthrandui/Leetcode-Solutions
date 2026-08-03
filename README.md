@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
