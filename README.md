@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1406-stone-game-iii](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Stack
 |  |
@@ -143,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
