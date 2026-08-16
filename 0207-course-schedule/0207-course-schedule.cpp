@@ -1,35 +1,57 @@
 class Solution {
 public:
-    bool dfs(int node, vector<vector<int>>& prerequisites,
-             vector<vector<int>>& adj, vector<int>& vis) {
-        if (vis[node] == 1) {
-            return false;
-        }
-        if (vis[node] == 2) {
-            return true;
-        }
-        vis[node] = 1;
-        for (int neb : adj[node]) {
-            if (!dfs(neb, prerequisites, adj,vis)) {
-                return false;
-            }
-        }
-        vis[node] = 2;
-        return true;
-    }
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-        for (auto& p : prerequisites) {
-            adj[p[1]].push_back(p[0]);
-        }
-        vector<int> vis(numCourses, 0);
-        for (int i = 0; i < numCourses; i++) {
-            if (vis[i] == 0) {
-                if (!dfs(i,prerequisites, adj, vis)) {
-                    return false;
+
+    bool iscycle(int src,
+                 vector<bool>& vis,
+                 vector<vector<int>>& prerequisites,
+                 vector<bool>& recpath) {
+
+        vis[src] = true;
+        recpath[src] = true;
+
+        for (int i = 0; i < prerequisites.size(); i++) {
+
+            int v = prerequisites[i][0];
+            int u = prerequisites[i][1];
+
+            // u -> v
+            if (u == src) {
+
+                if (!vis[v]) {
+
+                    if (iscycle(v, vis, prerequisites, recpath)) {
+                        return true;
+                    }
+
+                }
+                else if (recpath[v] == true) {
+                    return true;
                 }
             }
         }
-        return true;
+
+        // DFS of this node is completely finished
+        recpath[src] = false;
+
+        return false;
+    }
+
+    bool canFinish(int numCourses,
+                   vector<vector<int>>& prerequisites) {
+
+        vector<bool> vis(numCourses, false);
+        vector<bool> recpath(numCourses, false);
+
+        for (int i = 0; i < numCourses; i++) {
+
+            if (!vis[i]) {
+
+                if (iscycle(i, vis, prerequisites, recpath)) {
+                    return false;   // cycle -> cannot finish
+                }
+            }
+        }
+
+        return true;   // no cycle -> can finish
     }
 };
