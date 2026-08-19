@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0133-clone-graph) |
+| [1386-cinema-seat-allocation](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
