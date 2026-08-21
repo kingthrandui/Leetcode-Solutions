@@ -1,54 +1,20 @@
 class Solution {
 public:
-    int rob(vector<int>& nums) {
-        int n = nums.size();
-
-        if (n == 1)
-            return nums[0];
-
-        // vector<int> dp(n+2,0);
-
-        // dp[n-1] = nums[n-1];
-
-        int next1 = nums[n-1];
-        int next2 = 0;
-
-
-        for(int i = n-2;i>=0;i--){
-            int pick= nums[i]+next2;
-            int not_pick = next1;
-
-            int curr = max(pick, not_pick);
-
-            
-            next2 = next1;
-            next1=curr;
+    int solve( int i ,vector<int>& nums,vector<int>& dp){
+        if(i>=nums.size()){
+            return 0;
         }
-
-        return next1;;
+        if(dp[i]!=-1){
+            return dp[i];
+        }
+        int ans1 = solve(i+1 , nums, dp);
+        int ans2 = nums[i]+solve(i+2,nums,dp);
+        return dp[i] = max(ans1,ans2);
 
     }
+    int rob(vector<int>& nums) {
+        vector<int> dp(nums.size()+1,-1);
+        int result = solve(0,nums,dp);
+        return result;
+    }
 };
-
-// class Solution {
-// public:
-//     int rob(vector<int>& nums) {
-//         int n = nums.size();
-
-//         if (n == 1)
-//             return nums[0];
-
-//         vector<int> dp(n + 2, 0);
-
-//         dp[n - 1] = nums[n - 1];
-
-//         for (int i = n - 2; i >= 0; i--) {
-//             int pick = nums[i] + dp[i + 2];
-//             int notPick = dp[i + 1];
-
-//             dp[i] = max(pick, notPick);
-//         }
-
-//         return dp[0];
-//     }
-// };
