@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [3310-remove-methods-from-project](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1791-find-center-of-star-graph) |
@@ -289,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
