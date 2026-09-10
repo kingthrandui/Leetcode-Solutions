@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1192-critical-connections-in-a-network](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
