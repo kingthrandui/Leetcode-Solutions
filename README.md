@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/1927-sum-game) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kingthrandui/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
