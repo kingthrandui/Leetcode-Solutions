@@ -4,17 +4,8 @@ public:
         string ans = "";
 
         for (int i = 0; i < num; i++) {
-            if (i == 0) {
-                for (int j = 9; j > 0; j--) {
-                    if (sum >= j) {
-                        ans += to_string(j);
-                        sum -= j;
-                        break;
-                    }
-                }
-            }
-            else {
-                for (int j = 9; j >= 0; j--) {
+            int start = (i==0)? 9: 9;
+                for (int j = start; j >= 0; j--) {
                     if (sum >= j) {
                         ans += to_string(j);
                         sum -= j;
@@ -26,7 +17,6 @@ public:
             if (sum == 0 && ans.size() == num) {
                 return ans;
             }
-        }
 
         return "";
     }
